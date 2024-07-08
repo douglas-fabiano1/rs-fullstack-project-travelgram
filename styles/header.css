@@ -22,6 +22,8 @@ header #profile > div {
 header #profile img {
   height: 17.6rem;
   width: 17.6rem;
+  object-fit: cover;
+  border-radius: 50%;
 }
 
 header #profile h1 {
